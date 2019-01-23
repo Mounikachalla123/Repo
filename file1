@@ -1,0 +1,4 @@
+class private main()
+{
+system.out.println("helloworld");
+}
